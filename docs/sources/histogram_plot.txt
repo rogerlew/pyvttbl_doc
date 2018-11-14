@@ -15,7 +15,7 @@ Example
 
 produces 'hist(data).png'
 
-.. image:: _static/hist(data).png 
+.. image:: static/hist(data).png 
     :width: 400px
     :align: center
     :height: 300px
@@ -32,7 +32,7 @@ Example with `where` query
 
 produces 'hist(where_data).png'
 
-.. image:: _static/hist(where_data).png 
+.. image:: static/hist(where_data).png 
     :width: 400px
     :align: center
     :height: 300px
@@ -49,7 +49,7 @@ Cumulative histogram
                           
 produces 'cumulative_hist(data).png'
 
-.. image:: _static/cumulative_hist(data).png
+.. image:: static/cumulative_hist(data).png
     :width: 400px
     :align: center
     :height: 300px

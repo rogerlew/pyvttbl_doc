@@ -25,7 +25,7 @@ linear trend fitting for the subplots above the diagonal.
 
 produces 'scatter_matrix(CCSA_X_FIQ_X_TOTSA_X_TOTVOL).png'
 
-.. image:: _static/scatter_matrix(CCSA_X_FIQ_X_TOTSA_X_TOTVOL).png
+.. image:: static/scatter_matrix(CCSA_X_FIQ_X_TOTSA_X_TOTVOL).png
     :width: 700px
     :align: center
     :height: 700px
@@ -44,7 +44,7 @@ The y-axis labels do not relate to the frequency counts.
 
 produces 'scatter_matrix(CCSA_X_FIQ_X_TOTSA_X_TOTVOL,diagonal=hist).png'
 
-.. image:: _static/scatter_matrix(CCSA_X_FIQ_X_TOTSA_X_TOTVOL,diagonal=hist).png
+.. image:: static/scatter_matrix(CCSA_X_FIQ_X_TOTSA_X_TOTVOL,diagonal=hist).png
     :width: 700px
     :align: center
     :height: 700px
@@ -71,7 +71,7 @@ just need to specify alternate_labels=False.
 
 produces 'scatter_matrix(CCSA_X_HC_X_FIQ_X_TOTSA_X_TOTVOL,diagonal=kde,alternate_labels=False).png'
 
-.. image:: _static/scatter_matrix(CCSA_X_HC_X_FIQ_X_TOTSA_X_TOTVOL,diagonal=kde,alternate_labels=False).png
+.. image:: static/scatter_matrix(CCSA_X_HC_X_FIQ_X_TOTSA_X_TOTVOL,diagonal=kde,alternate_labels=False).png
     :width: 700px
     :align: center
     :height: 700px

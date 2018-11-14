@@ -21,7 +21,7 @@
        The version used for this page can be found at:
        https://code.google.com/p/pyvttbl/source/browse/doc/_templates/indexsidebar.html
        
-         referenced images have to be in doc/_static from what I can tell
+         referenced images have to be in doc/static from what I can tell
        
        
        inside conf.py initialize an html_sidebars dict to reflect what you would like 
